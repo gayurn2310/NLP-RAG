@@ -48,8 +48,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ### 3️⃣ Backend Setup
 ``` bash
 cd backend
-npm install
-npm run dev
+uvicorn model.main:app --reload --port 8000
 ```
 Backend will be live at http://localhost:8000.
 
