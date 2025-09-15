@@ -36,8 +36,8 @@ It has two main parts:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/gayurn2310/nlp-rag.git
-cd nlp-rag
+git clone https://github.com/gayurn2310/NLP-RAG.git
+cd NLP-RAG
 ```
 ### 2️⃣ Environment Variables Setup
 Create a .env file in /backend with:
